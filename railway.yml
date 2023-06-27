@@ -1,0 +1,7 @@
+commands:
+  - name: Install Dependencies
+    command: npm install
+  - name: Build
+    command: npm run build
+  - name: Start
+    command: npm run start
